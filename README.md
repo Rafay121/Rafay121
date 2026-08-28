@@ -46,8 +46,8 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafay121&show_icons=true&locale=en&layout=compact" alt="top languages" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafay121&show_icons=true&locale=en&layout=compact&hide_border=true&cache_seconds=1800" alt="top languages" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafay121&show_icons=true&locale=en" alt="github stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafay121&show_icons=true&locale=en&hide_border=true&cache_seconds=1800" alt="github stats" /></p>
 
 <p><img align="center" src="https://streak-stats.demolab.com?user=rafay121" alt="streak stats" /></p>

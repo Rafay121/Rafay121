@@ -1,53 +1,48 @@
-<h1 align="center">Hi 👋, I'm Mohammed Rafay Shafiuddin</h1>
-<h3 align="center">AI Agent Memory Infrastructure & Retrieval Frameworks</h3>
+# Mohammed Rafay
 
-<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+**Founder, [MemorySync](https://memorysync.io)** · Memory infrastructure for autonomous systems
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafay121&label=Profile%20views&color=0e75b6&style=flat" alt="rafay121" /> </p>
+Agents don't fail because models are weak. They fail because state is mismanaged: context gets stuffed, truncated, or forgotten. I build the layer that fixes that.
 
-🛠️ Founder of @memorysyncio – The memory layer for production AI systems
+---
 
-🚀 Deeply focused on long-term context retention, memory graphs, and adaptive retrieval for autonomous agents
+## Focus & Core Architecture
 
-👨‍💻 All of my projects are available at LinkedIn
+**The problem:** every agent hits the same walls. Context windows are finite, token costs compound with every turn, and naive "stuff the history into the prompt" approaches turn long-running agents into slow, expensive, forgetful ones.
 
-📫 How to reach me rafaymd072@gmail.com
+**What I work on:**
 
-⚡ Fun fact I am funny😅
+- **Long-term context retention.** Persisting what an agent has learned across sessions, tools, and runs, so state survives the context window instead of being limited by it.
+- **Memory graphs.** Modeling memory as connected entities and relationships rather than a flat pile of embeddings, so retrieval follows meaning and not just similarity.
+- **Adaptive retrieval.** Pulling the smallest useful slice of memory for the task at hand, ranked and shaped per request, instead of dumping everything that loosely matches.
+- **Token bloat control.** Treating tokens as a budget. Compaction, deduplication, and selective recall keep prompts lean without discarding signal.
+- **Hot / warm / cold tiering.** Active working memory stays fast and close, recent context sits one hop away, and long-tail history is stored cheaply and recalled on demand. Memory moves between tiers based on how it is actually used.
 
-<br clear="right"/>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mohammed-rafay-shafiuddin-060a04235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://instagram.com/rafay_486" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mohammed_rafay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
-</p>
+## Active Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-<a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/></a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/></a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-<a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-</p>
+### [MemorySync](https://memorysync.io)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafay121&show_icons=true&locale=en&layout=compact&hide_border=true&cache_seconds=1800" alt="top languages" /></p>
+Production memory infrastructure for AI agents: long-term retention, graph-structured memory, and adaptive retrieval behind a simple API.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafay121&show_icons=true&locale=en&hide_border=true&cache_seconds=1800" alt="github stats" /></p>
+**How it's split:**
 
-<p><img align="center" src="https://streak-stats.demolab.com?user=rafay121" alt="streak stats" /></p>
+- **Core engine runtime: managed service.** The memory engine (storage, tiering, graph construction, retrieval) runs as a hosted service, so teams get production-grade memory without operating it themselves.
+- **Framework adapters: fully open-source.** Every client layer and plugin below is open for the developer community to read, fork, and extend.
+
+**Native integrations**
+
+Claude Code · Cursor · n8n · Dify · Pipecat · LangGraph · Agno · Mastra · Vercel AI SDK · CrewAI
+
+Each adapter is built to fit the idioms of its framework: the same persistent memory underneath, wired in the way that ecosystem expects. Repos live under [@memorysyncio](https://github.com/memorysyncio).
+
+---
+
+## Core Tooling Systems
+
+I work close to the runtime: vector index runtimes that serve low-latency recall, async streaming pipelines that keep memory writes off the agent's hot path, and containerized server architectures that make the whole system deployable and reproducible.
+
+---
+
+**Building in public:** [memorysync.io](https://memorysync.io) · [@memorysyncio](https://github.com/memorysyncio)

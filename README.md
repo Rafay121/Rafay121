@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohammed Rafay Shafiuddin</h1>
-<h3 align="center">AI & Full-Stack — 24/7</h3>
+<h3 align="center">AI Agent Memory Infrastructure & Retrieval Frameworks</h3>
 
 <img align="right" alt="coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafay121&label=Profile%20views&color=0e75b6&style=flat" alt="rafay121" /> </p>
 
-🔭 I build AI agents, production backends, and full-stack apps
+🛠️ Founder of @memorysyncio – The memory layer for production AI systems
 
-🌱 Currently deep in LLMs, agent memory & retrieval systems
+🚀 Deeply focused on long-term context retention, memory graphs, and adaptive retrieval for autonomous agents
 
 👨‍💻 All of my projects are available at LinkedIn
 
